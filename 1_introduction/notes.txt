@@ -1,0 +1,2 @@
+mvn archetype:generate
+mvn clean compile exec:java -Dexec.mainClass=com.mongodb.App
